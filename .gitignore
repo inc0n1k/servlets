@@ -1,0 +1,11 @@
+out/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### TEST ###
+
+/ignoreGit/
